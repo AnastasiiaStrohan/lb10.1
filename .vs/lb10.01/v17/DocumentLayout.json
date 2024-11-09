@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\lb10.01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A523BFC5-95EB-4505-9E01-8DFBEBA186A3}|lb10.01\\lb10.01.vcxproj|C:\\Users\\Admin\\source\\repos\\lb10.01\\lb10.01\\lb10.01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A523BFC5-95EB-4505-9E01-8DFBEBA186A3}|lb10.01\\lb10.01.vcxproj|solutionrelative:lb10.01\\lb10.01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8BE3D0-87EC-4E52-B5D3-22B94C9EE7A8}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\Admin\\source\\repos\\lb10.01\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE8BE3D0-87EC-4E52-B5D3-22B94C9EE7A8}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lb10.01\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\lb10.01\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T23:12:55.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lb10.01.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lb10.01\\lb10.01\\lb10.01.cpp",
+              "RelativeDocumentMoniker": "lb10.01\\lb10.01.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\lb10.01\\lb10.01\\lb10.01.cpp",
+              "RelativeToolTip": "lb10.01\\lb10.01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T19:46:27.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
